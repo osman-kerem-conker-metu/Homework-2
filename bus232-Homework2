@@ -1,0 +1,7 @@
+userinput = input("Chatbot: Hi, I am a chatbot. Please state your name:")
+print("User:", userinput)
+print("Chatbot: Thank you", userinput)
+userinput1 = input("Chatbot: How can I help you?:")
+print("User:", userinput1)
+print("Chatbot: Searching for \""+userinput1+"\"")
+
